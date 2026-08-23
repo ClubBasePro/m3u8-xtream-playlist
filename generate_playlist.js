@@ -3,80 +3,6 @@ const path = require('path');
 const http = require('http');
 const https = require('https');
 
-// Categories to exclude (Portuguese soap operas, Turkish novelas, Brazilian domestic, Asian dramas, etc.)
-const EXCLUDE_CATEGORY_IDS = new Set([
-  '732', // NOVELAS
-  '940', // NOVELAS ATUAIS
-  '988', // NOVELAS TURCAS
-  '804', // GLOBOPLAY
-  '955', // BRASIL PARALELO
-  '742', // DORAMAS (K-Drama)
-  '888', // TOKUSATSU
-  '912', // SHOWS NACIONAIS
-  '906', // ANIMES
-  '908', // ANIMES LEGENDADOS
-]);
-
-// Clean English Category Mapping
-const ENGLISH_CAT_MAP = {
-  '953': 'SERIES | NEW RELEASES',
-  '783': 'SERIES | REALITY TV',
-  '805': 'SERIES | NETFLIX',
-  '870': 'SERIES | AMAZON PRIME',
-  '871': 'SERIES | HBO & HBO MAX',
-  '809': 'SERIES | DISNEY+',
-  '869': 'SERIES | HULU & STAR+',
-  '875': 'SERIES | APPLE TV+',
-  '874': 'SERIES | STARZ & LIONSGATE+',
-  '892': 'SERIES | DISCOVERY+',
-  '899': 'SERIES | NATIONAL GEOGRAPHIC',
-  '876': 'SERIES | PARAMOUNT+',
-  '880': 'SERIES | CBS',
-  '881': 'SERIES | ABC',
-  '879': 'SERIES | FOX',
-  '916': 'SERIES | TNT',
-  '917': 'SERIES | NBC',
-  '877': 'SERIES | HULU',
-  '882': 'SERIES | WARNER BROS',
-  '918': 'SERIES | SYFY',
-  '884': 'SERIES | A&E',
-  '883': 'SERIES | AMC',
-  '919': 'SERIES | AXN',
-  '898': 'SERIES | COMEDY CENTRAL',
-  '897': 'SERIES | HISTORY CHANNEL',
-  '885': 'SERIES | GENERAL DRAMA',
-  '914': 'SERIES | TALK SHOWS',
-  '895': 'SERIES | CLASSIC TV',
-  '902': 'SERIES | MARVEL & DC',
-  '893': 'SERIES | ANIMATION',
-  '894': 'SERIES | KIDS & FAMILY',
-  '909': 'SERIES | ANIMATED SITCOMS',
-  '915': 'SERIES | MARVEL & DC ANIMATION',
-  '911': 'SERIES | SITCOMS',
-  '913': 'SERIES | INTERNATIONAL & CONCERTS',
-};
-
-// Non-English keywords filter
-const FOREIGN_KEYWORDS = [
-  /\bnovela\b/i,
-  /\bbrasileir[oa]s?\b/i,
-  /\bnacional\b/i,
-  /\bturc[oa]s?\b/i,
-  /\bcorean[oa]s?\b/i,
-  /\bjapon[eê]s\b/i,
-  /\bchines[ea]?\b/i,
-  /\bespanhol\b/i,
-  /\bmexican[oa]s?\b/i,
-  /\bdorama\b/i,
-  /\bk-drama\b/i,
-  /\bbbb\b/i,
-  /\bbig brother brasil\b/i,
-  /\ba fazenda\b/i,
-  /\bde f[eé]rias com o ex brasil\b/i,
-  /\bcasamento [aà]s cegas brasil\b/i,
-  /\bbrincando com fogo brasil\b/i,
-];
-
 // Helper to make HTTP/HTTPS GET requests
 function fetchJson(url) {
   return new Promise((resolve, reject) => {
@@ -104,25 +30,23 @@ function fetchJson(url) {
 }
 
 /**
- * Generate M3U8 string from Xtream Series data (English only)
+ * Generate M3U8 string from Xtream Series data (Full list, all categories)
  */
 function generateSeriesM3u8(seriesList, categoriesList, host, username, password) {
+  const catMap = {};
+  if (Array.isArray(categoriesList)) {
+    categoriesList.forEach((c) => {
+      catMap[c.category_id] = c.category_name;
+    });
+  }
+
   let m3u = '#EXTM3U\n';
   let count = 0;
 
   for (const item of seriesList) {
-    const catId = String(item.category_id);
-    if (EXCLUDE_CATEGORY_IDS.has(catId)) continue;
-
     const title = (item.name || 'Untitled').replace(/[\r\n]/g, ' ');
-    const plot = item.plot || '';
-
-    // Check for foreign keywords
-    const isForeign = FOREIGN_KEYWORDS.some((rx) => rx.test(title) || rx.test(plot));
-    if (isForeign) continue;
-
     const logo = item.cover || '';
-    const category = ENGLISH_CAT_MAP[catId] || item.genre || 'Series';
+    const category = catMap[item.category_id] || item.genre || 'Series';
     const id = item.series_id || item.num || '';
     const streamUrl = `${host.replace(/\/$/, '')}/series/${username}/${password}/${id}.mp4`;
 
@@ -141,7 +65,7 @@ function generateVodM3u8(vodStreams, host, username, password) {
   for (const item of vodStreams) {
     const title = (item.name || 'Untitled Movie').replace(/[\r\n]/g, ' ');
     const logo = item.stream_icon || '';
-    const category = item.category_name || 'MOVIES | POPULAR';
+    const category = item.category_name || 'MOVIES';
     const id = item.stream_id || item.num || '';
     const ext = item.container_extension || 'mp4';
     const streamUrl = `${host.replace(/\/$/, '')}/movie/${username}/${password}/${id}.${ext}`;
@@ -173,7 +97,7 @@ function generateFromLocalFiles() {
   let seriesM3u = '';
   let moviesM3u = '';
 
-  // 1. English TV Series
+  // 1. Series (All 3,544 titles)
   if (fs.existsSync(seriesFile) && fs.existsSync(catFile)) {
     const series = JSON.parse(fs.readFileSync(seriesFile, 'utf8'));
     const categories = JSON.parse(fs.readFileSync(catFile, 'utf8'));
@@ -181,26 +105,26 @@ function generateFromLocalFiles() {
     seriesM3u = res.m3u;
     const seriesOutputFile = path.join(__dirname, 'series_playlist.m3u8');
     fs.writeFileSync(seriesOutputFile, seriesM3u, 'utf8');
-    console.log(`✅ Generated English Series Playlist (${res.count} English titles) -> ${seriesOutputFile}`);
+    console.log(`✅ Generated full series playlist (${res.count} series) -> ${seriesOutputFile}`);
   }
 
-  // 2. English Movies
+  // 2. Movies
   if (fs.existsSync(moviesFile)) {
     const movies = JSON.parse(fs.readFileSync(moviesFile, 'utf8'));
     moviesM3u = generateVodM3u8(movies, host, username, password);
     const moviesOutputFile = path.join(__dirname, 'movies_playlist.m3u8');
     fs.writeFileSync(moviesOutputFile, moviesM3u, 'utf8');
-    console.log(`✅ Generated English Movies Playlist (${movies.length} movies) -> ${moviesOutputFile}`);
+    console.log(`✅ Generated movies playlist (${movies.length} movies) -> ${moviesOutputFile}`);
   }
 
-  // 3. Combined All-in-One Playlist (English Movies + English TV Series)
+  // 3. Combined All-in-One Playlist (Movies + TV Series)
   if (seriesM3u || moviesM3u) {
     let combined = '#EXTM3U\n';
     if (moviesM3u) combined += moviesM3u.replace('#EXTM3U\n', '');
     if (seriesM3u) combined += seriesM3u.replace('#EXTM3U\n', '');
     const combinedFile = path.join(__dirname, 'all_in_one_playlist.m3u8');
     fs.writeFileSync(combinedFile, combined, 'utf8');
-    console.log(`✅ Generated Combined English Playlist -> ${combinedFile}`);
+    console.log(`✅ Generated combined (Movies + Series) playlist -> ${combinedFile}`);
   }
 }
 
@@ -222,7 +146,7 @@ async function fetchAndGenerateFromXtream(host, username, password, outputName =
       const { m3u: seriesM3u, count } = generateSeriesM3u8(seriesList, seriesCats, host, username, password);
       combinedM3u += seriesM3u.replace('#EXTM3U\n', '');
       totalCount += count;
-      console.log(`  -> Retrieved ${count} English Series`);
+      console.log(`  -> Retrieved ${count} Series`);
     }
   } catch (err) {
     console.warn(`  -> Could not fetch Series: ${err.message}`);
@@ -247,7 +171,7 @@ async function fetchAndGenerateFromXtream(host, username, password, outputName =
   if (totalCount > 0) {
     const outputPath = path.join(__dirname, outputName);
     fs.writeFileSync(outputPath, combinedM3u, 'utf8');
-    console.log(`✅ Generated playlist (English Movies & Series) at: ${outputPath} (${totalCount} titles)`);
+    console.log(`✅ Generated playlist (Movies & Series) at: ${outputPath} (${totalCount} titles)`);
   } else {
     console.log('No Movies or Series could be retrieved from the server.');
   }
@@ -259,7 +183,7 @@ async function main() {
 
   if (args.includes('--help') || args.includes('-h')) {
     console.log(`
-Xtream Codes to M3U8 Playlist Generator (English Only)
+Xtream Codes to M3U8 Playlist Generator
 
 Usage:
   node generate_playlist.js [options]
