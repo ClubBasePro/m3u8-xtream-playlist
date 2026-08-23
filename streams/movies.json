@@ -63,6 +63,13 @@
     "direct_url": "https://archive.org/download/sleeping-beauty-1959_20240128/Sleeping%20Beauty%201959.mp4"
   },
   {
+    "stream_id": 195501,
+    "name": "Lady and the Tramp (1955)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYPqrlexP07dwMHUtLqUNp.jpg",
+    "category_name": "DISNEY CLASSICS | GOLDEN ERA",
+    "direct_url": "https://archive.org/download/lady-and-the-tramp-1955_202506/Lady%20and%20the%20Tramp.mp4"
+  },
+  {
     "stream_id": 195301,
     "name": "Peter Pan (1953)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGyv2oW29GvVfKzB0jL1Y4G8pY4.jpg",
@@ -75,6 +82,13 @@
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fee767194c72ae57170369477a6e190.jpg",
     "category_name": "DISNEY CLASSICS | GOLDEN ERA",
     "direct_url": "https://archive.org/download/cinderella-1950_202404/Cinderella%20(1950).mp4"
+  },
+  {
+    "stream_id": 194601,
+    "name": "Song of the South (1946)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "category_name": "DISNEY CLASSICS | GOLDEN ERA",
+    "direct_url": "https://archive.org/download/SongOfTheSouthHD/Song%20of%20the%20South%20%284K%20Remaster%29.mp4"
   },
   {
     "stream_id": 193701,
