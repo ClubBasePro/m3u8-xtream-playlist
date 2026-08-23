@@ -2,8 +2,10 @@
   "name": "m3u8-xtream",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "generate_playlist.js",
   "scripts": {
+    "start": "node script.js",
+    "generate": "node generate_playlist.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
