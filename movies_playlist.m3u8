@@ -1,3 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1977" tvg-name="The Rescuers (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMevz5oU78e79e64FpL2t9SaCmg.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",The Rescuers (1977)
-https://archive.org/download/the-rescuers-1999-vhs/The%20Rescuers%20(1999%20VHS).mp4
+#EXTINF:-1 tvg-id="197701" tvg-name="The Rescuers (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMevz5oU78e79e64FpL2t9SaCmg.jpg" group-title="DISNEY CLASSICS | 1970s & 1980s" tvg-type="movie" type="movie",The Rescuers (1977)
+https://archive.org/download/the-rescuers-1999-vhs/The%20Rescuers%20(1999%20VHS).ia.mp4
+#EXTINF:-1 tvg-id="197702" tvg-name="The Many Adventures of Winnie the Pooh (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="DISNEY CLASSICS | 1970s & 1980s" tvg-type="movie" type="movie",The Many Adventures of Winnie the Pooh (1977)
+https://archive.org/download/TheManyAdventuresOfWinnieThePooh1977FullMovie/The%20Many%20Adventures%20of%20Winnie%20the%20Pooh%201977%20-%20full%20movie.mp4
+#EXTINF:-1 tvg-id="197703" tvg-name="Pete's Dragon (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aj8vVGFwGV2ipOXMf9fqTCvUvJ.jpg" group-title="DISNEY CLASSICS | 1970s & 1980s" tvg-type="movie" type="movie",Pete's Dragon (1977)
+https://archive.org/download/walt-disneys-petes-dragon-vhs-1997/Walt%20Disney's%20Pete's%20Dragon%20VHS%201997.mp4
+#EXTINF:-1 tvg-id="197101" tvg-name="Bedknobs and Broomsticks (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWX9ne3rNfg.jpg" group-title="DISNEY CLASSICS | 1970s & 1980s" tvg-type="movie" type="movie",Bedknobs and Broomsticks (1971)
+https://archive.org/download/walt-disneys-bedknobs-and-broomsticks-vhs-1995/Walt%20Disney's%20Bedknobs%20And%20Broomsticks%20VHS%201995.mp4
+#EXTINF:-1 tvg-id="198601" tvg-name="The Great Mouse Detective (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qA26uO4xNn2uQZt7R2EwS0g1D5V.jpg" group-title="DISNEY CLASSICS | 1970s & 1980s" tvg-type="movie" type="movie",The Great Mouse Detective (1986)
+https://archive.org/download/the-great-mouse-detective-1992-vhs_202104/The%20Great%20Mouse%20Detective%20(1992%20VHS).mp4
+#EXTINF:-1 tvg-id="198801" tvg-name="Oliver & Company (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="DISNEY CLASSICS | 1970s & 1980s" tvg-type="movie" type="movie",Oliver & Company (1988)
+https://archive.org/download/oliver-company-1996-vhs/Oliver%20%26%20Company%20(1996%20VHS).ia.mp4
+#EXTINF:-1 tvg-id="199001" tvg-name="The Rescuers Down Under (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kXW0q5kL87h68nPLbIST6NP96J.jpg" group-title="DISNEY CLASSICS | 1970s & 1980s" tvg-type="movie" type="movie",The Rescuers Down Under (1990)
+https://archive.org/download/the-rescuers-down-under-1991-vhs-version-2/The%20Rescuers%20Down%20Under%20(1991%20VHS)%20(Version%202).ia.mp4
+#EXTINF:-1 tvg-id="196101" tvg-name="One Hundred and One Dalmatians (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1v7FwP3tA3vVfKzB0jL1Y4G8pY4.jpg" group-title="DISNEY CLASSICS | GOLDEN ERA" tvg-type="movie" type="movie",One Hundred and One Dalmatians (1961)
+https://archive.org/download/101-dalmations_202209/101%20Dalmations.mp4
+#EXTINF:-1 tvg-id="195901" tvg-name="Sleeping Beauty (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LEI8ulBsduQTaQfylFeppj9Qg1.jpg" group-title="DISNEY CLASSICS | GOLDEN ERA" tvg-type="movie" type="movie",Sleeping Beauty (1959)
+https://archive.org/download/sleeping-beauty-1959_20240128/Sleeping%20Beauty%201959.mp4
+#EXTINF:-1 tvg-id="195301" tvg-name="Peter Pan (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGyv2oW29GvVfKzB0jL1Y4G8pY4.jpg" group-title="DISNEY CLASSICS | GOLDEN ERA" tvg-type="movie" type="movie",Peter Pan (1953)
+https://archive.org/download/peterpan1953capturedfromthe1990classicsvhs/Peter%20Pan%20(1953)%20%5Bcaptured%20from%20the%201990%20Classics%20VHS%5D.mp4
+#EXTINF:-1 tvg-id="195001" tvg-name="Cinderella (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fee767194c72ae57170369477a6e190.jpg" group-title="DISNEY CLASSICS | GOLDEN ERA" tvg-type="movie" type="movie",Cinderella (1950)
+https://archive.org/download/cinderella-1950_202404/Cinderella%20(1950).mp4
+#EXTINF:-1 tvg-id="193701" tvg-name="Snow White and the Seven Dwarfs (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYPqrlexP07dwMHUtLqUNp.jpg" group-title="DISNEY CLASSICS | GOLDEN ERA" tvg-type="movie" type="movie",Snow White and the Seven Dwarfs (1937)
+https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20(1937).mp4
