@@ -1,141 +1,301 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1001" tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Deadpool & Wolverine (2024)
+#EXTINF:-1 tvg-id="1001" tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Deadpool & Wolverine (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1001.mp4
-#EXTINF:-1 tvg-id="1002" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Top Gun: Maverick (2022)
+#EXTINF:-1 tvg-id="1002" tvg-name="Dune: Part Two (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Dune: Part Two (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1002.mp4
-#EXTINF:-1 tvg-id="1003" tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",The Dark Knight (2008)
+#EXTINF:-1 tvg-id="1003" tvg-name="Inside Out 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Inside Out 2 (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1003.mp4
-#EXTINF:-1 tvg-id="1004" tvg-name="Gladiator II (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Gladiator II (2024)
+#EXTINF:-1 tvg-id="1004" tvg-name="Gladiator II (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Gladiator II (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1004.mp4
-#EXTINF:-1 tvg-id="1005" tvg-name="The Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",The Batman (2022)
+#EXTINF:-1 tvg-id="1005" tvg-name="Alien: Romulus (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao8l3urDDgo60SY.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Alien: Romulus (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1005.mp4
-#EXTINF:-1 tvg-id="1006" tvg-name="John Wick: Chapter 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",John Wick: Chapter 4 (2023)
+#EXTINF:-1 tvg-id="1006" tvg-name="The Wild Robot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTnV3PCVW5O92JMrPIUFvdese9o.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",The Wild Robot (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1006.mp4
-#EXTINF:-1 tvg-id="1007" tvg-name="Furiosa: A Mad Max Saga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iADOJ8Zymht2JPMoy3R7xUMZ51f.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Furiosa: A Mad Max Saga (2024)
+#EXTINF:-1 tvg-id="1007" tvg-name="Twisters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Twisters (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1007.mp4
-#EXTINF:-1 tvg-id="1008" tvg-name="Twisters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Twisters (2024)
+#EXTINF:-1 tvg-id="1008" tvg-name="Kingdom of the Planet of the Apes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKkl37BQuKTanygYQG1pyYgLVgf.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Kingdom of the Planet of the Apes (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1008.mp4
-#EXTINF:-1 tvg-id="1009" tvg-name="Mad Max: Fury Road (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA2ple9q4qnwxp3hKVNhroipsir.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Mad Max: Fury Road (2015)
+#EXTINF:-1 tvg-id="1009" tvg-name="Furiosa: A Mad Max Saga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iADOJ8Zymht2JPMoy3R7xUMZ51f.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Furiosa: A Mad Max Saga (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1009.mp4
-#EXTINF:-1 tvg-id="1010" tvg-name="Avengers: Endgame (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Avengers: Endgame (2019)
+#EXTINF:-1 tvg-id="1010" tvg-name="Bad Boys: Ride or Die (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Bad Boys: Ride or Die (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1010.mp4
-#EXTINF:-1 tvg-id="1011" tvg-name="Avengers: Infinity War (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Avengers: Infinity War (2018)
+#EXTINF:-1 tvg-id="1011" tvg-name="A Quiet Place: Day One (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hU1Q9YVzdYwh89696Q03A6tVvTe.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",A Quiet Place: Day One (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1011.mp4
-#EXTINF:-1 tvg-id="1012" tvg-name="Mission: Impossible - Dead Reckoning (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Mission: Impossible - Dead Reckoning (2023)
+#EXTINF:-1 tvg-id="1012" tvg-name="The Substance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQBTGj5J4NfZ4jW8H2lY47o6qI8.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",The Substance (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1012.mp4
-#EXTINF:-1 tvg-id="1013" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Spider-Man: No Way Home (2021)
+#EXTINF:-1 tvg-id="1013" tvg-name="Godzilla x Kong: The New Empire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ2ywkchIiaKLSEaMrcT6e29f91.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Godzilla x Kong: The New Empire (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1013.mp4
-#EXTINF:-1 tvg-id="1014" tvg-name="Everything Everywhere All at Once (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYPqrlexP07dwMHUtLqUNp.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Everything Everywhere All at Once (2022)
+#EXTINF:-1 tvg-id="1014" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Kung Fu Panda 4 (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1014.mp4
-#EXTINF:-1 tvg-id="1015" tvg-name="The Matrix (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",The Matrix (1999)
+#EXTINF:-1 tvg-id="1015" tvg-name="Despicable Me 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NjnTC0vFE52iZSZ.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Despicable Me 4 (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1015.mp4
-#EXTINF:-1 tvg-id="1016" tvg-name="Bad Boys: Ride or Die (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Bad Boys: Ride or Die (2024)
+#EXTINF:-1 tvg-id="1016" tvg-name="Longlegs (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aj8vVGFwGV2ipOXMf9fqTCvUvJ.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Longlegs (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1016.mp4
-#EXTINF:-1 tvg-id="1017" tvg-name="Kingdom of the Planet of the Apes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKkl37BQuKTanygYQG1pyYgLVgf.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Kingdom of the Planet of the Apes (2024)
+#EXTINF:-1 tvg-id="1017" tvg-name="Smile 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE85MnPIvjYF59W6vGkQYxHskG8.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Smile 2 (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1017.mp4
-#EXTINF:-1 tvg-id="1018" tvg-name="Godzilla x Kong: The New Empire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ2ywkchIiaKLSEaMrcT6e29f91.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Godzilla x Kong: The New Empire (2024)
+#EXTINF:-1 tvg-id="1018" tvg-name="Terrifier 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/630btMjsBf7C6MAZeQc0962v9iM.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Terrifier 3 (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1018.mp4
-#EXTINF:-1 tvg-id="1019" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Avatar: The Way of Water (2022)
+#EXTINF:-1 tvg-id="1019" tvg-name="Moana 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Moana 2 (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1019.mp4
-#EXTINF:-1 tvg-id="1020" tvg-name="Gladiator (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Gladiator (2000)
+#EXTINF:-1 tvg-id="1020" tvg-name="Wicked (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfw9vWdZtq6JdD1eQZ8Lh2f8Xj4.jpg" group-title="MOVIES | 2024 & 2025 RELEASES" tvg-type="movie" type="movie",Wicked (2024)
 http://7go.xyz:8080/movie/15junior/as1266375/1020.mp4
-#EXTINF:-1 tvg-id="1021" tvg-name="Dune: Part Two (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Dune: Part Two (2024)
+#EXTINF:-1 tvg-id="1021" tvg-name="Avengers: Endgame (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Avengers: Endgame (2019)
 http://7go.xyz:8080/movie/15junior/as1266375/1021.mp4
-#EXTINF:-1 tvg-id="1022" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Dune (2021)
+#EXTINF:-1 tvg-id="1022" tvg-name="Avengers: Infinity War (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Avengers: Infinity War (2018)
 http://7go.xyz:8080/movie/15junior/as1266375/1022.mp4
-#EXTINF:-1 tvg-id="1023" tvg-name="Interstellar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Interstellar (2014)
+#EXTINF:-1 tvg-id="1023" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Spider-Man: No Way Home (2021)
 http://7go.xyz:8080/movie/15junior/as1266375/1023.mp4
-#EXTINF:-1 tvg-id="1024" tvg-name="Inception (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Inception (2010)
+#EXTINF:-1 tvg-id="1024" tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",The Dark Knight (2008)
 http://7go.xyz:8080/movie/15junior/as1266375/1024.mp4
-#EXTINF:-1 tvg-id="1025" tvg-name="Alien: Romulus (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao8l3urDDgo60SY.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Alien: Romulus (2024)
+#EXTINF:-1 tvg-id="1025" tvg-name="The Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",The Batman (2022)
 http://7go.xyz:8080/movie/15junior/as1266375/1025.mp4
-#EXTINF:-1 tvg-id="1026" tvg-name="Blade Runner 2049 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Blade Runner 2049 (2017)
+#EXTINF:-1 tvg-id="1026" tvg-name="The Dark Knight Rises (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",The Dark Knight Rises (2012)
 http://7go.xyz:8080/movie/15junior/as1266375/1026.mp4
-#EXTINF:-1 tvg-id="1027" tvg-name="Tenet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Tenet (2020)
+#EXTINF:-1 tvg-id="1027" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RW2runjiMwQYPJ2qQIZbgTC8Pu.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Batman Begins (2005)
 http://7go.xyz:8080/movie/15junior/as1266375/1027.mp4
-#EXTINF:-1 tvg-id="1028" tvg-name="Arrival (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Arrival (2016)
+#EXTINF:-1 tvg-id="1028" tvg-name="Iron Man (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Iron Man (2008)
 http://7go.xyz:8080/movie/15junior/as1266375/1028.mp4
-#EXTINF:-1 tvg-id="1029" tvg-name="The Creator (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBZ0qvaRxqEhZwg6A9E54676TWQ.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",The Creator (2023)
+#EXTINF:-1 tvg-id="1029" tvg-name="Captain America: Civil War (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAG2NTBuFtNj6x9p656tJkC3P67.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Captain America: Civil War (2016)
 http://7go.xyz:8080/movie/15junior/as1266375/1029.mp4
-#EXTINF:-1 tvg-id="1030" tvg-name="Edge of Tomorrow (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJWUbW09KaWc58n7fT0KzB0jL1Y.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Edge of Tomorrow (2014)
+#EXTINF:-1 tvg-id="1030" tvg-name="Guardians of the Galaxy Vol. 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN2Ydg3mA53n.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Guardians of the Galaxy Vol. 3 (2023)
 http://7go.xyz:8080/movie/15junior/as1266375/1030.mp4
-#EXTINF:-1 tvg-id="1031" tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",Oppenheimer (2023)
+#EXTINF:-1 tvg-id="1031" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4jvoY0ND.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Thor: Ragnarok (2017)
 http://7go.xyz:8080/movie/15junior/as1266375/1031.mp4
-#EXTINF:-1 tvg-id="1032" tvg-name="Killers of the Flower Moon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",Killers of the Flower Moon (2023)
+#EXTINF:-1 tvg-id="1032" tvg-name="Black Panther (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8vlum.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Black Panther (2018)
 http://7go.xyz:8080/movie/15junior/as1266375/1032.mp4
-#EXTINF:-1 tvg-id="1033" tvg-name="The Shawshank Redemption (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",The Shawshank Redemption (1994)
+#EXTINF:-1 tvg-id="1033" tvg-name="Zack Snyder's Justice League (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax92Je1wBSzy2I6n.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Zack Snyder's Justice League (2021)
 http://7go.xyz:8080/movie/15junior/as1266375/1033.mp4
-#EXTINF:-1 tvg-id="1034" tvg-name="The Godfather (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",The Godfather (1972)
+#EXTINF:-1 tvg-id="1034" tvg-name="Joker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Joker (2019)
 http://7go.xyz:8080/movie/15junior/as1266375/1034.mp4
-#EXTINF:-1 tvg-id="1035" tvg-name="Fight Club (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",Fight Club (1999)
+#EXTINF:-1 tvg-id="1035" tvg-name="Doctor Strange in the Multiverse of Madness (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Doctor Strange in the Multiverse of Madness (2022)
 http://7go.xyz:8080/movie/15junior/as1266375/1035.mp4
-#EXTINF:-1 tvg-id="1036" tvg-name="Forrest Gump (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arw2VCBveWOVZr6pxd9XTd1TdQa.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",Forrest Gump (1994)
+#EXTINF:-1 tvg-id="1036" tvg-name="Logan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnbjcAj1NTCOgtURan2duF44q8q.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Logan (2017)
 http://7go.xyz:8080/movie/15junior/as1266375/1036.mp4
-#EXTINF:-1 tvg-id="1037" tvg-name="The Wolf of Wall Street (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",The Wolf of Wall Street (2013)
+#EXTINF:-1 tvg-id="1037" tvg-name="Deadpool (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3q0Xxkge.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Deadpool (2016)
 http://7go.xyz:8080/movie/15junior/as1266375/1037.mp4
-#EXTINF:-1 tvg-id="1038" tvg-name="Parasite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",Parasite (2019)
+#EXTINF:-1 tvg-id="1038" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbvdJnLJJILwY9.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Deadpool 2 (2018)
 http://7go.xyz:8080/movie/15junior/as1266375/1038.mp4
-#EXTINF:-1 tvg-id="1039" tvg-name="Whiplash (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fn624j5lj3xTme2SgiLCeuedmO.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",Whiplash (2014)
+#EXTINF:-1 tvg-id="1039" tvg-name="Spider-Man: Into the Spider-Verse (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Spider-Man: Into the Spider-Verse (2018)
 http://7go.xyz:8080/movie/15junior/as1266375/1039.mp4
-#EXTINF:-1 tvg-id="1040" tvg-name="The Social Network (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",The Social Network (2010)
+#EXTINF:-1 tvg-id="1040" tvg-name="Spider-Man: Across the Spider-Verse (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="MOVIES | MARVEL & DC SUPERHEROES" tvg-type="movie" type="movie",Spider-Man: Across the Spider-Verse (2023)
 http://7go.xyz:8080/movie/15junior/as1266375/1040.mp4
-#EXTINF:-1 tvg-id="1041" tvg-name="Inside Out 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Inside Out 2 (2024)
+#EXTINF:-1 tvg-id="1041" tvg-name="Interstellar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Interstellar (2014)
 http://7go.xyz:8080/movie/15junior/as1266375/1041.mp4
-#EXTINF:-1 tvg-id="1042" tvg-name="Spider-Man: Across the Spider-Verse (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Spider-Man: Across the Spider-Verse (2023)
+#EXTINF:-1 tvg-id="1042" tvg-name="Inception (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Inception (2010)
 http://7go.xyz:8080/movie/15junior/as1266375/1042.mp4
-#EXTINF:-1 tvg-id="1043" tvg-name="The Wild Robot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTnV3PCVW5O92JMrPIUFvdese9o.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",The Wild Robot (2024)
+#EXTINF:-1 tvg-id="1043" tvg-name="The Matrix (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",The Matrix (1999)
 http://7go.xyz:8080/movie/15junior/as1266375/1043.mp4
-#EXTINF:-1 tvg-id="1044" tvg-name="Despicable Me 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NjnTC0vFE52iZSZ.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Despicable Me 4 (2024)
+#EXTINF:-1 tvg-id="1044" tvg-name="Blade Runner 2049 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Blade Runner 2049 (2017)
 http://7go.xyz:8080/movie/15junior/as1266375/1044.mp4
-#EXTINF:-1 tvg-id="1045" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Kung Fu Panda 4 (2024)
+#EXTINF:-1 tvg-id="1045" tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyeqWdyUXW608qlYkRqosgbbJyK.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Avatar (2009)
 http://7go.xyz:8080/movie/15junior/as1266375/1045.mp4
-#EXTINF:-1 tvg-id="1046" tvg-name="Spider-Man: Into the Spider-Verse (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Spider-Man: Into the Spider-Verse (2018)
+#EXTINF:-1 tvg-id="1046" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Avatar: The Way of Water (2022)
 http://7go.xyz:8080/movie/15junior/as1266375/1046.mp4
-#EXTINF:-1 tvg-id="1047" tvg-name="Puss in Boots: The Last Wish (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuf6dutpsT0vSVgvicvEZI76VNY.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Puss in Boots: The Last Wish (2022)
+#EXTINF:-1 tvg-id="1047" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Dune (2021)
 http://7go.xyz:8080/movie/15junior/as1266375/1047.mp4
-#EXTINF:-1 tvg-id="1048" tvg-name="Moana 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Moana 2 (2024)
+#EXTINF:-1 tvg-id="1048" tvg-name="Arrival (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Arrival (2016)
 http://7go.xyz:8080/movie/15junior/as1266375/1048.mp4
-#EXTINF:-1 tvg-id="1049" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Coco (2017)
+#EXTINF:-1 tvg-id="1049" tvg-name="Tenet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Tenet (2020)
 http://7go.xyz:8080/movie/15junior/as1266375/1049.mp4
-#EXTINF:-1 tvg-id="1050" tvg-name="Spirited Away (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Spirited Away (2001)
+#EXTINF:-1 tvg-id="1050" tvg-name="Edge of Tomorrow (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJWUbW09KaWc58n7fT0KzB0jL1Y.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Edge of Tomorrow (2014)
 http://7go.xyz:8080/movie/15junior/as1266375/1050.mp4
-#EXTINF:-1 tvg-id="1051" tvg-name="The Substance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQBTGj5J4NfZ4jW8H2lY47o6qI8.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",The Substance (2024)
+#EXTINF:-1 tvg-id="1051" tvg-name="The Martian (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BHuvQ6p9kL09PvT8917hDq46m8.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",The Martian (2015)
 http://7go.xyz:8080/movie/15junior/as1266375/1051.mp4
-#EXTINF:-1 tvg-id="1052" tvg-name="A Quiet Place: Day One (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hU1Q9YVzdYwh89696Q03A6tVvTe.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",A Quiet Place: Day One (2024)
+#EXTINF:-1 tvg-id="1052" tvg-name="Gravity (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4p1fd7bB4g8pY4q1W8k64c8dE99.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Gravity (2013)
 http://7go.xyz:8080/movie/15junior/as1266375/1052.mp4
-#EXTINF:-1 tvg-id="1053" tvg-name="Longlegs (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aj8vVGFwGV2ipOXMf9fqTCvUvJ.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Longlegs (2024)
+#EXTINF:-1 tvg-id="1053" tvg-name="Ready Player One (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",Ready Player One (2018)
 http://7go.xyz:8080/movie/15junior/as1266375/1053.mp4
-#EXTINF:-1 tvg-id="1054" tvg-name="Smile 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE85MnPIvjYF59W6vGkQYxHskG8.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Smile 2 (2024)
+#EXTINF:-1 tvg-id="1054" tvg-name="District 9 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",District 9 (2009)
 http://7go.xyz:8080/movie/15junior/as1266375/1054.mp4
-#EXTINF:-1 tvg-id="1055" tvg-name="Terrifier 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/630btMjsBf7C6MAZeQc0962v9iM.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Terrifier 3 (2024)
+#EXTINF:-1 tvg-id="1055" tvg-name="The Creator (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBZ0qvaRxqEhZwg6A9E54676TWQ.jpg" group-title="MOVIES | SCI-FI & SPACE" tvg-type="movie" type="movie",The Creator (2023)
 http://7go.xyz:8080/movie/15junior/as1266375/1055.mp4
-#EXTINF:-1 tvg-id="1056" tvg-name="Talk to Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdPMUMJzyYAc4roD52qavX0nLIC.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Talk to Me (2023)
+#EXTINF:-1 tvg-id="1056" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Top Gun: Maverick (2022)
 http://7go.xyz:8080/movie/15junior/as1266375/1056.mp4
-#EXTINF:-1 tvg-id="1057" tvg-name="Get Out (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Get Out (2017)
+#EXTINF:-1 tvg-id="1057" tvg-name="John Wick: Chapter 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",John Wick: Chapter 4 (2023)
 http://7go.xyz:8080/movie/15junior/as1266375/1057.mp4
-#EXTINF:-1 tvg-id="1058" tvg-name="Hereditary (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9fuzn2Iz5udk5mS158QZkQ0W3k.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Hereditary (2018)
+#EXTINF:-1 tvg-id="1058" tvg-name="John Wick (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPSMVXTnnZ7SwwCPGWnzujWumv.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",John Wick (2014)
 http://7go.xyz:8080/movie/15junior/as1266375/1058.mp4
-#EXTINF:-1 tvg-id="1059" tvg-name="The Conjuring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",The Conjuring (2013)
+#EXTINF:-1 tvg-id="1059" tvg-name="John Wick: Chapter 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZMCBPj291mNqZ5A0d5Nl4gD5Wk.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",John Wick: Chapter 2 (2017)
 http://7go.xyz:8080/movie/15junior/as1266375/1059.mp4
-#EXTINF:-1 tvg-id="1060" tvg-name="Se7en (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69Sns8WoET6C6FL8hBhYnjOWzMw.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Se7en (1995)
+#EXTINF:-1 tvg-id="1060" tvg-name="John Wick: Chapter 3 - Parabellum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1X1696dp4UWqB99zZ61vBw.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",John Wick: Chapter 3 - Parabellum (2019)
 http://7go.xyz:8080/movie/15junior/as1266375/1060.mp4
-#EXTINF:-1 tvg-id="1061" tvg-name="Barbie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Barbie (2023)
+#EXTINF:-1 tvg-id="1061" tvg-name="Mad Max: Fury Road (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA2ple9q4qnwxp3hKVNhroipsir.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Mad Max: Fury Road (2015)
 http://7go.xyz:8080/movie/15junior/as1266375/1061.mp4
-#EXTINF:-1 tvg-id="1062" tvg-name="Poor Things (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Poor Things (2023)
+#EXTINF:-1 tvg-id="1062" tvg-name="Mission: Impossible - Fallout (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQvtR09N5VOZ1smmXgXm1bE1a.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Mission: Impossible - Fallout (2018)
 http://7go.xyz:8080/movie/15junior/as1266375/1062.mp4
-#EXTINF:-1 tvg-id="1063" tvg-name="The Holdovers (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G20Zuvw1khrvFvQyVypxQW8Zc9.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",The Holdovers (2023)
+#EXTINF:-1 tvg-id="1063" tvg-name="Mission: Impossible - Dead Reckoning (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Mission: Impossible - Dead Reckoning (2023)
 http://7go.xyz:8080/movie/15junior/as1266375/1063.mp4
-#EXTINF:-1 tvg-id="1064" tvg-name="Knives Out (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x880yZ16k1u.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Knives Out (2019)
+#EXTINF:-1 tvg-id="1064" tvg-name="Gladiator (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Gladiator (2000)
 http://7go.xyz:8080/movie/15junior/as1266375/1064.mp4
-#EXTINF:-1 tvg-id="1065" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Glass Onion: A Knives Out Mystery (2022)
+#EXTINF:-1 tvg-id="1065" tvg-name="Fast X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Fast X (2023)
 http://7go.xyz:8080/movie/15junior/as1266375/1065.mp4
-#EXTINF:-1 tvg-id="1066" tvg-name="The Grand Budapest Hotel (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWX9ne3rNfg.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",The Grand Budapest Hotel (2014)
+#EXTINF:-1 tvg-id="1066" tvg-name="Furious 7 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCgm7efXD7ayFcJwYMRSYHfFRhY.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Furious 7 (2015)
 http://7go.xyz:8080/movie/15junior/as1266375/1066.mp4
-#EXTINF:-1 tvg-id="1067" tvg-name="Superbad (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek8e8txUyUwd2BNqj6lFEerJ9sm.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Superbad (2007)
+#EXTINF:-1 tvg-id="1067" tvg-name="Everything Everywhere All at Once (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYPqrlexP07dwMHUtLqUNp.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Everything Everywhere All at Once (2022)
 http://7go.xyz:8080/movie/15junior/as1266375/1067.mp4
-#EXTINF:-1 tvg-id="1068" tvg-name="The Hangover (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uluhlXubGu1VxU63X9MH8G02tnh.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",The Hangover (2009)
+#EXTINF:-1 tvg-id="1068" tvg-name="The Lord of the Rings: The Fellowship of the Ring (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cDK6.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",The Lord of the Rings: The Fellowship of the Ring (2001)
 http://7go.xyz:8080/movie/15junior/as1266375/1068.mp4
-#EXTINF:-1 tvg-id="1069" tvg-name="Step Brothers (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP0bCjHwS265j1h914i2R1hC2u9.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Step Brothers (2008)
+#EXTINF:-1 tvg-id="1069" tvg-name="The Lord of the Rings: The Two Towers (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",The Lord of the Rings: The Two Towers (2002)
 http://7go.xyz:8080/movie/15junior/as1266375/1069.mp4
-#EXTINF:-1 tvg-id="1070" tvg-name="Deadpool (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3q0Xxkge.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Deadpool (2016)
+#EXTINF:-1 tvg-id="1070" tvg-name="The Lord of the Rings: The Return of the King (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",The Lord of the Rings: The Return of the King (2003)
 http://7go.xyz:8080/movie/15junior/as1266375/1070.mp4
+#EXTINF:-1 tvg-id="1071" tvg-name="Pirates of the Caribbean: The Curse of the Black Pearl (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8BmBAmLeQ8q1QyS9fQn1E5j8W9.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+http://7go.xyz:8080/movie/15junior/as1266375/1071.mp4
+#EXTINF:-1 tvg-id="1072" tvg-name="Indiana Jones and the Raiders of the Lost Ark (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Indiana Jones and the Raiders of the Lost Ark (1981)
+http://7go.xyz:8080/movie/15junior/as1266375/1072.mp4
+#EXTINF:-1 tvg-id="1073" tvg-name="Casino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17yRlsS172B0wN9i07F1hGjU8Y0.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Casino Royale (2006)
+http://7go.xyz:8080/movie/15junior/as1266375/1073.mp4
+#EXTINF:-1 tvg-id="1074" tvg-name="Skyfall (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13PZZ7w47wY2L2498JbV6L48hC6.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",Skyfall (2012)
+http://7go.xyz:8080/movie/15junior/as1266375/1074.mp4
+#EXTINF:-1 tvg-id="1075" tvg-name="No Time to Die (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgytxHsHWGIsqkdqL0t9SaCmgp.jpg" group-title="MOVIES | ACTION & ADVENTURE" tvg-type="movie" type="movie",No Time to Die (2021)
+http://7go.xyz:8080/movie/15junior/as1266375/1075.mp4
+#EXTINF:-1 tvg-id="1076" tvg-name="The Shawshank Redemption (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",The Shawshank Redemption (1994)
+http://7go.xyz:8080/movie/15junior/as1266375/1076.mp4
+#EXTINF:-1 tvg-id="1077" tvg-name="The Godfather (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",The Godfather (1972)
+http://7go.xyz:8080/movie/15junior/as1266375/1077.mp4
+#EXTINF:-1 tvg-id="1078" tvg-name="The Godfather Part II (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",The Godfather Part II (1974)
+http://7go.xyz:8080/movie/15junior/as1266375/1078.mp4
+#EXTINF:-1 tvg-id="1079" tvg-name="Pulp Fiction (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",Pulp Fiction (1994)
+http://7go.xyz:8080/movie/15junior/as1266375/1079.mp4
+#EXTINF:-1 tvg-id="1080" tvg-name="Fight Club (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",Fight Club (1999)
+http://7go.xyz:8080/movie/15junior/as1266375/1080.mp4
+#EXTINF:-1 tvg-id="1081" tvg-name="Forrest Gump (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arw2VCBveWOVZr6pxd9XTd1TdQa.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",Forrest Gump (1994)
+http://7go.xyz:8080/movie/15junior/as1266375/1081.mp4
+#EXTINF:-1 tvg-id="1082" tvg-name="GoodFellas (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",GoodFellas (1990)
+http://7go.xyz:8080/movie/15junior/as1266375/1082.mp4
+#EXTINF:-1 tvg-id="1083" tvg-name="The Silence of the Lambs (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS9m8OBk1A8eM9I04N4uO5g5x6k.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",The Silence of the Lambs (1991)
+http://7go.xyz:8080/movie/15junior/as1266375/1083.mp4
+#EXTINF:-1 tvg-id="1084" tvg-name="Schindler's List (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF1U4EUQS8YHUYjNl30MGauQ8bv.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",Schindler's List (1993)
+http://7go.xyz:8080/movie/15junior/as1266375/1084.mp4
+#EXTINF:-1 tvg-id="1085" tvg-name="Se7en (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69Sns8WoET6C6FL8hBhYnjOWzMw.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",Se7en (1995)
+http://7go.xyz:8080/movie/15junior/as1266375/1085.mp4
+#EXTINF:-1 tvg-id="1086" tvg-name="The Departed (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT97ifL231viho74T406cu5n6Bq.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",The Departed (2006)
+http://7go.xyz:8080/movie/15junior/as1266375/1086.mp4
+#EXTINF:-1 tvg-id="1087" tvg-name="Saving Private Ryan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",Saving Private Ryan (1998)
+http://7go.xyz:8080/movie/15junior/as1266375/1087.mp4
+#EXTINF:-1 tvg-id="1088" tvg-name="The Green Mile (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VG8fDNiy5087IRDoL0Y9vqqxQI.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",The Green Mile (1999)
+http://7go.xyz:8080/movie/15junior/as1266375/1088.mp4
+#EXTINF:-1 tvg-id="1089" tvg-name="The Prestige (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",The Prestige (2006)
+http://7go.xyz:8080/movie/15junior/as1266375/1089.mp4
+#EXTINF:-1 tvg-id="1090" tvg-name="Memento (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuWy0eA86e246r1aW56d4g4K24C.jpg" group-title="MOVIES | TOP RATED & CLASSICS" tvg-type="movie" type="movie",Memento (2000)
+http://7go.xyz:8080/movie/15junior/as1266375/1090.mp4
+#EXTINF:-1 tvg-id="1091" tvg-name="Puss in Boots: The Last Wish (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuf6dutpsT0vSVgvicvEZI76VNY.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Puss in Boots: The Last Wish (2022)
+http://7go.xyz:8080/movie/15junior/as1266375/1091.mp4
+#EXTINF:-1 tvg-id="1092" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Coco (2017)
+http://7go.xyz:8080/movie/15junior/as1266375/1092.mp4
+#EXTINF:-1 tvg-id="1093" tvg-name="Spirited Away (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Spirited Away (2001)
+http://7go.xyz:8080/movie/15junior/as1266375/1093.mp4
+#EXTINF:-1 tvg-id="1094" tvg-name="The Lion King (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCr78jn29flFFxMSOmsNGUEvEJ.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",The Lion King (1994)
+http://7go.xyz:8080/movie/15junior/as1266375/1094.mp4
+#EXTINF:-1 tvg-id="1095" tvg-name="Toy Story (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Toy Story (1995)
+http://7go.xyz:8080/movie/15junior/as1266375/1095.mp4
+#EXTINF:-1 tvg-id="1096" tvg-name="Toy Story 3 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbbXspMOwdvwWZgVX0nx0qxyqD.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Toy Story 3 (2010)
+http://7go.xyz:8080/movie/15junior/as1266375/1096.mp4
+#EXTINF:-1 tvg-id="1097" tvg-name="Up (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Up (2009)
+http://7go.xyz:8080/movie/15junior/as1266375/1097.mp4
+#EXTINF:-1 tvg-id="1098" tvg-name="WALL-E (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbhFnRzzgcoFydql0rhmkeJJwtq.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",WALL-E (2008)
+http://7go.xyz:8080/movie/15junior/as1266375/1098.mp4
+#EXTINF:-1 tvg-id="1099" tvg-name="Finding Nemo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggQ940jXl4V5B0W5Z37h87Qx7K0.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Finding Nemo (2003)
+http://7go.xyz:8080/movie/15junior/as1266375/1099.mp4
+#EXTINF:-1 tvg-id="1100" tvg-name="Ratatouille (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npHNzldCqK905w5W42hC8uY1vC7.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Ratatouille (2007)
+http://7go.xyz:8080/movie/15junior/as1266375/1100.mp4
+#EXTINF:-1 tvg-id="1101" tvg-name="Shrek (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZg3vUVBLQhtB.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Shrek (2001)
+http://7go.xyz:8080/movie/15junior/as1266375/1101.mp4
+#EXTINF:-1 tvg-id="1102" tvg-name="Shrek 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yYP0PQjG8zVq5W5B37h87Qx7K0.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Shrek 2 (2004)
+http://7go.xyz:8080/movie/15junior/as1266375/1102.mp4
+#EXTINF:-1 tvg-id="1103" tvg-name="How to Train Your Dragon (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygGmAO60t8qKq1bW56d4g4K24C.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",How to Train Your Dragon (2010)
+http://7go.xyz:8080/movie/15junior/as1266375/1103.mp4
+#EXTINF:-1 tvg-id="1104" tvg-name="Zootopia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM33SANp9z6rXW8G0X7X8c4Y2C7.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Zootopia (2016)
+http://7go.xyz:8080/movie/15junior/as1266375/1104.mp4
+#EXTINF:-1 tvg-id="1105" tvg-name="Frozen (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgNj37sL9kH8vX5W42hC8uY1vC7.jpg" group-title="MOVIES | ANIMATION & FAMILY" tvg-type="movie" type="movie",Frozen (2013)
+http://7go.xyz:8080/movie/15junior/as1266375/1105.mp4
+#EXTINF:-1 tvg-id="1106" tvg-name="Talk to Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdPMUMJzyYAc4roD52qavX0nLIC.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Talk to Me (2023)
+http://7go.xyz:8080/movie/15junior/as1266375/1106.mp4
+#EXTINF:-1 tvg-id="1107" tvg-name="Get Out (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Get Out (2017)
+http://7go.xyz:8080/movie/15junior/as1266375/1107.mp4
+#EXTINF:-1 tvg-id="1108" tvg-name="Hereditary (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9fuzn2Iz5udk5mS158QZkQ0W3k.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Hereditary (2018)
+http://7go.xyz:8080/movie/15junior/as1266375/1108.mp4
+#EXTINF:-1 tvg-id="1109" tvg-name="Midsommar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LEI8ulBsduQTaQfylFeppj9Qg1.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Midsommar (2019)
+http://7go.xyz:8080/movie/15junior/as1266375/1109.mp4
+#EXTINF:-1 tvg-id="1110" tvg-name="The Conjuring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",The Conjuring (2013)
+http://7go.xyz:8080/movie/15junior/as1266375/1110.mp4
+#EXTINF:-1 tvg-id="1111" tvg-name="The Shining (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xazWoLealQwEgqZ89MLZklLZD3k.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",The Shining (1980)
+http://7go.xyz:8080/movie/15junior/as1266375/1111.mp4
+#EXTINF:-1 tvg-id="1112" tvg-name="Psycho (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz4555N42v330B5W42hC8uY1vC7.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Psycho (1960)
+http://7go.xyz:8080/movie/15junior/as1266375/1112.mp4
+#EXTINF:-1 tvg-id="1113" tvg-name="A Quiet Place (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",A Quiet Place (2018)
+http://7go.xyz:8080/movie/15junior/as1266375/1113.mp4
+#EXTINF:-1 tvg-id="1114" tvg-name="It (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2STTruthbQQTZaQUqyp2NVw.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",It (2017)
+http://7go.xyz:8080/movie/15junior/as1266375/1114.mp4
+#EXTINF:-1 tvg-id="1115" tvg-name="Saw (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epP49Z5dF1w08gV9p8u7C7c6Y2C.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Saw (2004)
+http://7go.xyz:8080/movie/15junior/as1266375/1115.mp4
+#EXTINF:-1 tvg-id="1116" tvg-name="Halloween (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHk8s8w6x87pY4q1W8k64c8dE99.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Halloween (1978)
+http://7go.xyz:8080/movie/15junior/as1266375/1116.mp4
+#EXTINF:-1 tvg-id="1117" tvg-name="The Exorcist (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ucLGcXV0qn95u2L107H9k64c8d.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",The Exorcist (1973)
+http://7go.xyz:8080/movie/15junior/as1266375/1117.mp4
+#EXTINF:-1 tvg-id="1118" tvg-name="Barbarian (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idT5Zwjhla29ZG4EN0JJHpCbvgG.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Barbarian (2022)
+http://7go.xyz:8080/movie/15junior/as1266375/1118.mp4
+#EXTINF:-1 tvg-id="1119" tvg-name="X (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woTQALPn0V7dmRNCaMDmTCQ1WqO.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",X (2022)
+http://7go.xyz:8080/movie/15junior/as1266375/1119.mp4
+#EXTINF:-1 tvg-id="1120" tvg-name="Pearl (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulBLIBCDGQ4IXYTeRPi0gCqJgqF.jpg" group-title="MOVIES | HORROR & THRILLER" tvg-type="movie" type="movie",Pearl (2022)
+http://7go.xyz:8080/movie/15junior/as1266375/1120.mp4
+#EXTINF:-1 tvg-id="1121" tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Oppenheimer (2023)
+http://7go.xyz:8080/movie/15junior/as1266375/1121.mp4
+#EXTINF:-1 tvg-id="1122" tvg-name="Killers of the Flower Moon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Killers of the Flower Moon (2023)
+http://7go.xyz:8080/movie/15junior/as1266375/1122.mp4
+#EXTINF:-1 tvg-id="1123" tvg-name="Poor Things (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Poor Things (2023)
+http://7go.xyz:8080/movie/15junior/as1266375/1123.mp4
+#EXTINF:-1 tvg-id="1124" tvg-name="The Holdovers (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G20Zuvw1khrvFvQyVypxQW8Zc9.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",The Holdovers (2023)
+http://7go.xyz:8080/movie/15junior/as1266375/1124.mp4
+#EXTINF:-1 tvg-id="1125" tvg-name="Parasite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Parasite (2019)
+http://7go.xyz:8080/movie/15junior/as1266375/1125.mp4
+#EXTINF:-1 tvg-id="1126" tvg-name="Whiplash (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fn624j5lj3xTme2SgiLCeuedmO.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Whiplash (2014)
+http://7go.xyz:8080/movie/15junior/as1266375/1126.mp4
+#EXTINF:-1 tvg-id="1127" tvg-name="The Wolf of Wall Street (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",The Wolf of Wall Street (2013)
+http://7go.xyz:8080/movie/15junior/as1266375/1127.mp4
+#EXTINF:-1 tvg-id="1128" tvg-name="La La Land (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDO8zWDhfWwoFdKS4fzkVJt0Rf0.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",La La Land (2016)
+http://7go.xyz:8080/movie/15junior/as1266375/1128.mp4
+#EXTINF:-1 tvg-id="1129" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1G43ZBpZ0uP0pWv5.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",1917 (2019)
+http://7go.xyz:8080/movie/15junior/as1266375/1129.mp4
+#EXTINF:-1 tvg-id="1130" tvg-name="Jojo Rabbit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsMfiFFR6eGk47vP0pWv5c6Y2C.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Jojo Rabbit (2019)
+http://7go.xyz:8080/movie/15junior/as1266375/1130.mp4
+#EXTINF:-1 tvg-id="1131" tvg-name="The Social Network (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",The Social Network (2010)
+http://7go.xyz:8080/movie/15junior/as1266375/1131.mp4
+#EXTINF:-1 tvg-id="1132" tvg-name="Gladiator (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Gladiator (2000)
+http://7go.xyz:8080/movie/15junior/as1266375/1132.mp4
+#EXTINF:-1 tvg-id="1133" tvg-name="Titanic (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kxr1WNcy5BP.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Titanic (1997)
+http://7go.xyz:8080/movie/15junior/as1266375/1133.mp4
+#EXTINF:-1 tvg-id="1134" tvg-name="Braveheart (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or1gBugydmjToAEqJJHGj1c0W9c.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",Braveheart (1995)
+http://7go.xyz:8080/movie/15junior/as1266375/1134.mp4
+#EXTINF:-1 tvg-id="1135" tvg-name="American Beauty (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wby9315QzVKxpnYm3sZ16k1uY9c.jpg" group-title="MOVIES | DRAMA & OSCAR WINNERS" tvg-type="movie" type="movie",American Beauty (1999)
+http://7go.xyz:8080/movie/15junior/as1266375/1135.mp4
+#EXTINF:-1 tvg-id="1136" tvg-name="Barbie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Barbie (2023)
+http://7go.xyz:8080/movie/15junior/as1266375/1136.mp4
+#EXTINF:-1 tvg-id="1137" tvg-name="Knives Out (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x880yZ16k1u.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Knives Out (2019)
+http://7go.xyz:8080/movie/15junior/as1266375/1137.mp4
+#EXTINF:-1 tvg-id="1138" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Glass Onion: A Knives Out Mystery (2022)
+http://7go.xyz:8080/movie/15junior/as1266375/1138.mp4
+#EXTINF:-1 tvg-id="1139" tvg-name="The Grand Budapest Hotel (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWX9ne3rNfg.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",The Grand Budapest Hotel (2014)
+http://7go.xyz:8080/movie/15junior/as1266375/1139.mp4
+#EXTINF:-1 tvg-id="1140" tvg-name="Superbad (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek8e8txUyUwd2BNqj6lFEerJ9sm.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Superbad (2007)
+http://7go.xyz:8080/movie/15junior/as1266375/1140.mp4
+#EXTINF:-1 tvg-id="1141" tvg-name="The Hangover (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uluhlXubGu1VxU63X9MH8G02tnh.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",The Hangover (2009)
+http://7go.xyz:8080/movie/15junior/as1266375/1141.mp4
+#EXTINF:-1 tvg-id="1142" tvg-name="Step Brothers (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP0bCjHwS265j1h914i2R1hC2u9.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Step Brothers (2008)
+http://7go.xyz:8080/movie/15junior/as1266375/1142.mp4
+#EXTINF:-1 tvg-id="1143" tvg-name="21 Jump Street (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9S9yRk7Z61vBw7h87Qx7K0pY9c.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",21 Jump Street (2012)
+http://7go.xyz:8080/movie/15junior/as1266375/1143.mp4
+#EXTINF:-1 tvg-id="1144" tvg-name="Tropic Thunder (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAurB9m914i2R1hC2u9wvy1vC7k.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Tropic Thunder (2008)
+http://7go.xyz:8080/movie/15junior/as1266375/1144.mp4
+#EXTINF:-1 tvg-id="1145" tvg-name="Anchorman: The Legend of Ron Burgundy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b37h87Qx7K0pY9czA16k1uY9c8.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Anchorman: The Legend of Ron Burgundy (2004)
+http://7go.xyz:8080/movie/15junior/as1266375/1145.mp4
+#EXTINF:-1 tvg-id="1146" tvg-name="Borat (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Borat (2006)
+http://7go.xyz:8080/movie/15junior/as1266375/1146.mp4
+#EXTINF:-1 tvg-id="1147" tvg-name="The Truman Show (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuza0WqY239cu80NdIH9F4G24C.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",The Truman Show (1998)
+http://7go.xyz:8080/movie/15junior/as1266375/1147.mp4
+#EXTINF:-1 tvg-id="1148" tvg-name="The Big Lebowski (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG9W9vW6x87pY4q1W8k64c8dE99.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",The Big Lebowski (1998)
+http://7go.xyz:8080/movie/15junior/as1266375/1148.mp4
+#EXTINF:-1 tvg-id="1149" tvg-name="Groundhog Day (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsMfiFFR6eGk47vP0pWv5c6Y2C.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Groundhog Day (1993)
+http://7go.xyz:8080/movie/15junior/as1266375/1149.mp4
+#EXTINF:-1 tvg-id="1150" tvg-name="Ferris Bueller's Day Off (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2STTruthbQQTZaQUqyp2NVw.jpg" group-title="MOVIES | COMEDY" tvg-type="movie" type="movie",Ferris Bueller's Day Off (1986)
+http://7go.xyz:8080/movie/15junior/as1266375/1150.mp4
