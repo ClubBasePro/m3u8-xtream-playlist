@@ -3,7 +3,6 @@
     "stream_id": 1001,
     "name": "Dune: Part Two (2024)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
-    "category_id": "1",
     "category_name": "MOVIES | SCI-FI",
     "container_extension": "mp4"
   },
@@ -11,7 +10,6 @@
     "stream_id": 1002,
     "name": "Oppenheimer (2023)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-    "category_id": "2",
     "category_name": "MOVIES | DRAMA",
     "container_extension": "mp4"
   },
@@ -19,7 +17,6 @@
     "stream_id": 1003,
     "name": "Deadpool & Wolverine (2024)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-    "category_id": "3",
     "category_name": "MOVIES | ACTION",
     "container_extension": "mp4"
   },
@@ -27,7 +24,6 @@
     "stream_id": 1004,
     "name": "Spider-Man: Across the Spider-Verse (2023)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-    "category_id": "4",
     "category_name": "MOVIES | ANIMATION",
     "container_extension": "mp4"
   },
@@ -35,7 +31,6 @@
     "stream_id": 1005,
     "name": "Interstellar (2014)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "category_id": "1",
     "category_name": "MOVIES | SCI-FI",
     "container_extension": "mp4"
   },
@@ -43,7 +38,6 @@
     "stream_id": 1006,
     "name": "The Dark Knight (2008)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-    "category_id": "3",
     "category_name": "MOVIES | ACTION",
     "container_extension": "mp4"
   },
@@ -51,7 +45,6 @@
     "stream_id": 1007,
     "name": "Inception (2010)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
-    "category_id": "1",
     "category_name": "MOVIES | SCI-FI",
     "container_extension": "mp4"
   },
@@ -59,7 +52,6 @@
     "stream_id": 1008,
     "name": "Avatar: The Way of Water (2022)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
-    "category_id": "1",
     "category_name": "MOVIES | SCI-FI",
     "container_extension": "mp4"
   },
@@ -67,7 +59,6 @@
     "stream_id": 1009,
     "name": "Top Gun: Maverick (2022)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
-    "category_id": "3",
     "category_name": "MOVIES | ACTION",
     "container_extension": "mp4"
   },
@@ -75,7 +66,146 @@
     "stream_id": 1010,
     "name": "Gladiator II (2024)",
     "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
-    "category_id": "3",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1011,
+    "name": "Inside Out 2 (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "category_name": "MOVIES | ANIMATION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1012,
+    "name": "The Batman (2022)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1013,
+    "name": "Barbie (2023)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "category_name": "MOVIES | COMEDY",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1014,
+    "name": "John Wick: Chapter 4 (2023)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1015,
+    "name": "Alien: Romulus (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao8l3urDDgo60SY.jpg",
+    "category_name": "MOVIES | SCI-FI",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1016,
+    "name": "Twisters (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1017,
+    "name": "Kingdom of the Planet of the Apes (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "category_name": "MOVIES | SCI-FI",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1018,
+    "name": "A Quiet Place: Day One (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hU1Q9YVzdYwh89696Q03A6tVvTe.jpg",
+    "category_name": "MOVIES | HORROR",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1019,
+    "name": "Furiosa: A Mad Max Saga (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iADOJ8Zymht2JPMoy3R7xUMZ51f.jpg",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1020,
+    "name": "The Substance (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQBTGj5J4NfZ4jW8H2lY47o6qI8.jpg",
+    "category_name": "MOVIES | HORROR",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1021,
+    "name": "Poor Things (2023)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+    "category_name": "MOVIES | COMEDY",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1022,
+    "name": "Killers of the Flower Moon (2023)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+    "category_name": "MOVIES | DRAMA",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1023,
+    "name": "The Shawshank Redemption (1994)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "category_name": "MOVIES | CLASSICS",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1024,
+    "name": "The Godfather (1972)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "category_name": "MOVIES | CLASSICS",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1025,
+    "name": "Pulp Fiction (1994)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "category_name": "MOVIES | CLASSICS",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1026,
+    "name": "The Matrix (1999)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "category_name": "MOVIES | SCI-FI",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1027,
+    "name": "Fight Club (1999)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "category_name": "MOVIES | DRAMA",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1028,
+    "name": "Forrest Gump (1994)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/arw2VCBveWOVZr6pxd9XTd1TdQa.jpg",
+    "category_name": "MOVIES | DRAMA",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1029,
+    "name": "GoodFellas (1990)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "category_name": "MOVIES | CLASSICS",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1030,
+    "name": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cDK6.jpg",
     "category_name": "MOVIES | ACTION",
     "container_extension": "mp4"
   }
