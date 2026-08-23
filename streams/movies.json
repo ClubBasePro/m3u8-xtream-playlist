@@ -1,0 +1,82 @@
+[
+  {
+    "stream_id": 1001,
+    "name": "Dune: Part Two (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "category_id": "1",
+    "category_name": "MOVIES | SCI-FI",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1002,
+    "name": "Oppenheimer (2023)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "category_id": "2",
+    "category_name": "MOVIES | DRAMA",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1003,
+    "name": "Deadpool & Wolverine (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "category_id": "3",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1004,
+    "name": "Spider-Man: Across the Spider-Verse (2023)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "category_id": "4",
+    "category_name": "MOVIES | ANIMATION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1005,
+    "name": "Interstellar (2014)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "category_id": "1",
+    "category_name": "MOVIES | SCI-FI",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1006,
+    "name": "The Dark Knight (2008)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "category_id": "3",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1007,
+    "name": "Inception (2010)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "category_id": "1",
+    "category_name": "MOVIES | SCI-FI",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1008,
+    "name": "Avatar: The Way of Water (2022)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "category_id": "1",
+    "category_name": "MOVIES | SCI-FI",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1009,
+    "name": "Top Gun: Maverick (2022)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "category_id": "3",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  },
+  {
+    "stream_id": 1010,
+    "name": "Gladiator II (2024)",
+    "stream_icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "category_id": "3",
+    "category_name": "MOVIES | ACTION",
+    "container_extension": "mp4"
+  }
+]

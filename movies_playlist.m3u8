@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1001" tvg-name="Dune: Part Two (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Dune: Part Two (2024)
+http://7go.xyz:8080/movie/15junior/as1266375/1001.mp4
+#EXTINF:-1 tvg-id="1002" tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="MOVIES | DRAMA" tvg-type="movie" type="movie",Oppenheimer (2023)
+http://7go.xyz:8080/movie/15junior/as1266375/1002.mp4
+#EXTINF:-1 tvg-id="1003" tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Deadpool & Wolverine (2024)
+http://7go.xyz:8080/movie/15junior/as1266375/1003.mp4
+#EXTINF:-1 tvg-id="1004" tvg-name="Spider-Man: Across the Spider-Verse (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="MOVIES | ANIMATION" tvg-type="movie" type="movie",Spider-Man: Across the Spider-Verse (2023)
+http://7go.xyz:8080/movie/15junior/as1266375/1004.mp4
+#EXTINF:-1 tvg-id="1005" tvg-name="Interstellar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Interstellar (2014)
+http://7go.xyz:8080/movie/15junior/as1266375/1005.mp4
+#EXTINF:-1 tvg-id="1006" tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",The Dark Knight (2008)
+http://7go.xyz:8080/movie/15junior/as1266375/1006.mp4
+#EXTINF:-1 tvg-id="1007" tvg-name="Inception (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Inception (2010)
+http://7go.xyz:8080/movie/15junior/as1266375/1007.mp4
+#EXTINF:-1 tvg-id="1008" tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="MOVIES | SCI-FI" tvg-type="movie" type="movie",Avatar: The Way of Water (2022)
+http://7go.xyz:8080/movie/15junior/as1266375/1008.mp4
+#EXTINF:-1 tvg-id="1009" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Top Gun: Maverick (2022)
+http://7go.xyz:8080/movie/15junior/as1266375/1009.mp4
+#EXTINF:-1 tvg-id="1010" tvg-name="Gladiator II (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="MOVIES | ACTION" tvg-type="movie" type="movie",Gladiator II (2024)
+http://7go.xyz:8080/movie/15junior/as1266375/1010.mp4

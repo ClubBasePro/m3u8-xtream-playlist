@@ -118,23 +118,48 @@ function generateFromLocalFiles() {
   const streamsDir = path.join(__dirname, 'streams');
   const seriesFile = path.join(streamsDir, 'get_series_15junior_as1266375.json');
   const catFile = path.join(streamsDir, 'get_series_categories_15junior_as1266375.json');
+  const moviesFile = path.join(streamsDir, 'movies.json');
 
+  const host = 'http://7go.xyz:8080';
+  const username = '15junior';
+  const password = 'as1266375';
+
+  let seriesM3u = '';
+  let moviesM3u = '';
+
+  // 1. Series
   if (fs.existsSync(seriesFile) && fs.existsSync(catFile)) {
-    console.log('Generating M3U8 from local streams/ data...');
     const series = JSON.parse(fs.readFileSync(seriesFile, 'utf8'));
     const categories = JSON.parse(fs.readFileSync(catFile, 'utf8'));
+    seriesM3u = generateSeriesM3u8(series, categories, host, username, password);
+    const seriesOutputFile = path.join(__dirname, 'series_playlist.m3u8');
+    fs.writeFileSync(seriesOutputFile, seriesM3u, 'utf8');
+    console.log(`✅ Generated series playlist (${series.length} series) -> ${seriesOutputFile}`);
+  }
 
-    const host = 'http://7go.xyz:8080';
-    const username = '15junior';
-    const password = 'as1266375';
+  // 2. Movies
+  if (fs.existsSync(moviesFile)) {
+    const movies = JSON.parse(fs.readFileSync(moviesFile, 'utf8'));
+    const movieCats = [
+      { category_id: '1', category_name: 'MOVIES | SCI-FI' },
+      { category_id: '2', category_name: 'MOVIES | DRAMA' },
+      { category_id: '3', category_name: 'MOVIES | ACTION' },
+      { category_id: '4', category_name: 'MOVIES | ANIMATION' },
+    ];
+    moviesM3u = generateVodM3u8(movies, movieCats, host, username, password);
+    const moviesOutputFile = path.join(__dirname, 'movies_playlist.m3u8');
+    fs.writeFileSync(moviesOutputFile, moviesM3u, 'utf8');
+    console.log(`✅ Generated movies playlist (${movies.length} movies) -> ${moviesOutputFile}`);
+  }
 
-    const m3uContent = generateSeriesM3u8(series, categories, host, username, password);
-    const outputFile = path.join(__dirname, 'series_playlist.m3u8');
-    fs.writeFileSync(outputFile, m3uContent, 'utf8');
-
-    console.log(`✅ Successfully generated playlist with ${series.length} series:`);
-    console.log(`   File saved to: ${outputFile}`);
-    console.log(`   Direct Xtream URL: ${getDirectXtreamUrl(host, username, password, 'm3u8')}`);
+  // 3. Combined All-in-One Playlist (Movies + TV Series)
+  if (seriesM3u || moviesM3u) {
+    let combined = '#EXTM3U\n';
+    if (moviesM3u) combined += moviesM3u.replace('#EXTM3U\n', '');
+    if (seriesM3u) combined += seriesM3u.replace('#EXTM3U\n', '');
+    const combinedFile = path.join(__dirname, 'all_in_one_playlist.m3u8');
+    fs.writeFileSync(combinedFile, combined, 'utf8');
+    console.log(`✅ Generated combined (Movies + Series) playlist -> ${combinedFile}`);
   }
 }
 
